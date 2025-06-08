@@ -281,7 +281,6 @@ class HBNBCommand(cmd.Cmd):
             elif args == 3:
                 print("** value missing **")
 
-
 if __name__ == "__main__":
     """
     Entry point for the command-line interpreter.
