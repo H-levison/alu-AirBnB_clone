@@ -1,0 +1,5 @@
+# This file lists all individuals who have contributed content to this repository.
+# Format: Name <email>
+
+HonourGod Levison <H.levison@alustudent.com>
+Jean Muhire <j.Muhire@alustudent.com>
